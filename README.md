@@ -1,5 +1,13 @@
 # flask-experiment
-Building a simple blog with Flask
+Building a simple blog with Flask.
+
+Login page example:
+
+![alt text](https://github.com/titaristanto/flask-experiment/blob/master/images/login.png?raw=true)
+
+Profile page example:
+
+![alt text](https://github.com/titaristanto/flask-experiment/blob/master/images/profile.png?raw=true)
 
 ### Running it locally
 - Make sure all required dependencies are met `pip install -r requirements.txt`
