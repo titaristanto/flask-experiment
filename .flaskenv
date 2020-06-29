@@ -1,0 +1,1 @@
+FLASK_APP=/Users/titaristanto/PycharmProjects/microblog/scratch/microblog2.py
